@@ -13,4 +13,4 @@ Libreria para leer archivos .txt y .dat facilmente.
 
 ## Descargas
 
-[![Static Badge](https://img.shields.io/badge/Descargar-.jar-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Static Badge](https://img.shields.io/badge/Descargar-.jar-green.svg)]()
