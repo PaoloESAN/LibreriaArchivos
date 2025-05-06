@@ -1,14 +1,17 @@
 package pruebas;
 
-import Archivos.Archivo;
+import Archivos.ArchivoDAT;
+import Archivos.ArchivoTXT;
+import java.util.Arrays;
 import java.util.List;
 
 public class prueba {
     
     public static void main(String[] args) {
-        List<String[]> lista = Archivo.leerLista();
+        System.out.println(ArchivoDAT.leer("Usuarios.DAT", 104));
+        List<String[]> lista = ArchivoDAT.leerLista(104);
         for(String[] fila : lista){
-            System.out.println(fila[10]);
+            System.out.println(Arrays.toString(fila));
         }
         System.out.println("");
         PruebaForm pb = new PruebaForm();
