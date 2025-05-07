@@ -13,4 +13,4 @@ Libreria para leer archivos .txt y .dat facilmente.
 
 ## Descargas
 
-[![Static Badge](https://img.shields.io/badge/Descargar-.jar-green.svg)]()
+[![Static Badge](https://img.shields.io/badge/Descargar-.jar-green.svg)](https://github.com/PaoloESAN/LibreriaArchivos/releases/download/release-final/LibreriaArchivos.jar)
