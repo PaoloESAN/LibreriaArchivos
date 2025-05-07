@@ -19,6 +19,10 @@ Libreria para leer archivos .txt y .dat facilmente.
 | `leerLista` | `File` | `List<String[]>` | Devuelve un Lista de String[] del archivo leído|
 | `leerLista` |  | `List<String[]>` | Abre una ventana para seleccionar un archivo y devuelve un Lista de String[] del archivo leído|
 
+#### Ejemplo de uso:
+
+![image](https://github.com/user-attachments/assets/701c77be-ceda-4942-b068-f18a95feb53a)
+
 ### Para .dat:
 
 #### Clase: ArchivoDAT
@@ -31,3 +35,8 @@ Libreria para leer archivos .txt y .dat facilmente.
 | `leerLista` | `string`,`int` | `List<String[]>` | Devuelve un Lista de String[] del archivo leído, debes pasarle la longitud de cada linea|
 | `leerLista` | `File`,`int` | `List<String[]>` | Devuelve un Lista de String[] del archivo leído, debes pasarle la longitud de cada linea|
 | `leerLista` | `int` | `List<String[]>` | Abre una ventana para seleccionar un archivo y devuelve un Lista de String[] del archivo leído, debes pasarle la longitud de cada linea|
+
+#### Ejemplo de uso:
+
+![image](https://github.com/user-attachments/assets/6cc97157-d466-4a7a-9f6b-a25ff717802a)
+
